@@ -1,10 +1,3 @@
-   ////////////////////////////////////////////////////////
-  //                LinoBot v1.0                        //             
- //               By Aarav Garg                        //
-////////////////////////////////////////////////////////
-
-//I have added the possibilities of testing
-//The values of analogRead could be changed for trouble shooting
 
 //including the libraries
 #include <AFMotor.h>
